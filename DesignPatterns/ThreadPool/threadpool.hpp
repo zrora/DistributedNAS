@@ -2,7 +2,7 @@
 
 #ifndef __THREADPOOL
 #define __THREADPOOL
-#include "../../waitablequeue/waitablequeue.hpp"
+#include "./waitablequeue/waitablequeue.hpp"
 #include <boost/atomic/atomic.hpp>
 #include <boost/chrono/include.hpp>
 namespace ilrd

@@ -3,9 +3,9 @@
 
 #include "../dirmonitor/dirmonitor.hpp"
 #include "../dlloader/dlloader.hpp"
-#include "../../cpp/DesignPatterns/Factory/factory.hpp"
-#include "../../cpp/DesignPatterns/Singletone/singletonesharedlibrary/singletone.hpp"
-#include "../../cpp/DesignPatterns/ThreadPool/threadpool.hpp"
+#include "../DesignPatterns/Factory/factory.hpp"
+#include "../DesignPatterns/Singletone/singletonesharedlibrary/singletone.hpp"
+#include "../cpp/DesignPatterns/ThreadPool/threadpool.hpp"
 #include "../bdproxy.hpp"
 // #include "../memory.hpp"
 
